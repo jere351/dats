@@ -157,8 +157,8 @@ h2
 
   .Tutor_p
   {
-    font-family: 'Arial Narrow', cursive;
-    text-align: left;
+    font-family: 'Arial Black', cursive;
+    text-align: center;
     color:SteelBlue;
 
   }
@@ -167,8 +167,8 @@ h2
 
 .SMM_p
 {
-   font-family: 'Arial Narrow', cursive;
-   text-align: left;
+   font-family: 'Arial Black', cursive;
+   text-align: center;
    color:CornflowerBlue;
 
 
@@ -191,9 +191,9 @@ h2
   .SEE_p
   {
 
-   font-family: 'Arial Narrow', cursive;
+   font-family: 'Arial Black', cursive;
    color:CornflowerBlue;
-   text-align: left;
+   text-align: center;
   }
 
 .Bottom
